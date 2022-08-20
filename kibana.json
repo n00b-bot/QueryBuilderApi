@@ -1,0 +1,16 @@
+{
+  "id": "test",
+  "version": "0.1.0",
+  "kibanaVersion": "7.17.5",
+  "owner": {
+    "name": "nothing",
+    "githubTeam": ""
+  },
+  "description": "",
+  "server": true,
+  "ui": true,
+  "requiredPlugins": [
+    "navigation"
+  ],
+  "optionalPlugins": []
+}
